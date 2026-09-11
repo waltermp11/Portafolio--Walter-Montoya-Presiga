@@ -42,7 +42,7 @@ html {
   scroll-behavior: smooth;
 }
 
-body{
+body {
   width: 100%;
   font-family: var(--font-display);
   background: var(--navy-950);
@@ -50,10 +50,11 @@ body{
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
+
 main {
-  width: 60%;
+  width: 50%;
   margin: 0 auto;
-  
+
 }
 
 img {
@@ -294,12 +295,18 @@ ul {
   letter-spacing: 2px;
 }
 
-.hero__social{
+.hero__social {
   display: flex;
   flex-direction: column;
   justify-content: center;
   gap: 10px;
   align-items: center;
+}
+
+.hero__media {
+
+  display: flex;
+  flex-direction: row;
 }
 
 /* =========================================================

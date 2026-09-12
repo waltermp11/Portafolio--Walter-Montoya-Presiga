@@ -5,5 +5,3 @@
 
 **** 
 
-## Observaciones
-- Pendiente de empezar a hacer el portafolio en HTML.
